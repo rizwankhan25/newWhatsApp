@@ -1,0 +1,36 @@
+//word vs keyword✅                             
+// var let and const✅                                 
+// hoisting✅                                
+// Types in js✅                              
+    (1). primitive value✅                              
+    (2). reference value  ex: (), {}, [] <<<===these all are reference value✅
+//conditional(if else if and else)✅
+// loop(for and while)✅
+// function✅
+//params and arguments✅
+//array✅
+// push pop shift unshift and slice✅
+// object✅
+//function abcd(){}✅
+//browser context api(browser mainly tin chije deta hai>>>> window, stack, and heap memory, ye sari chije context api kahlati h)
+//stack (jis order me jo ata h wo usi order me jata )
+// heap memory(ye temporary memory hota hai jisme calculation hote time data store hota hai for ex: 1+2+3+4)
+//execution context(jab v function call hota hai wo ek emaginay container bnata hai usme tin chij rhta hai 1. variable,2.function inside parent function, 3.lexical envirment or ye jo emaginary container h use bolte hai hai execution context, exection context is a emaginary container and when it's created when a function called it makes a imaginary container and this imaginary container contens three things variable, function, and laxical envirment)
+//laxical envirment(it a chart where name mentioned whome your function can access )
+// how to copy reference value (let brr = [...arr], we copy it with spread operator)
+//truthy and falsy value(0, undifind, null, fals, document.all,NaN)
+forEach((val) => {console.log(val*2)})(forEach hamesha array pr kam krta hai jab apan ko array ke har element pr koi calculation perform krna ho to apan use krte hai forEach)
+forin loop (jab apan ko object pr loop lgana hota hai to use krte hai forin loop)
+//callback function 
+//first class function 
+//how arrays are ........
+//hofs
+//constructor function
+//first class function
+//new keyword
+//iife function
+//prototype
+//prototype inheritance
+//this call apply bind
+//pure and impure function
+//closures
