@@ -56,3 +56,11 @@
 // }
 
 // abcd();
+let username = prompt("enter username: ");
+
+if(username === "rizwan"){
+    console.log("yes brother");
+}
+else{
+    console.log("no brother");
+}
